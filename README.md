@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Dre4my26/Dre4my26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working for [Whitespots](https://whitespots.io/) as a vulnerability triager.
+- I’m currently studying at ITMO University, St.Petersburg getting my major at ML, DS and other newfangled buzzwords.
+- How to reach me: 
+  - [Telegram](https://t.me/Dre4my26)
+  - [Discord](https://discordapp.com/users/Dreamy#3350)
+  - [E-mail](dreamyguy26@gmail.com)
+- Fun fact: 
+People all over the world are walking 10% faster than they did a decade ago. [This says a lot about society... ](https://i1.sndcdn.com/artworks-yUBzcRRVXokEFmCo-9y7hfw-t500x500.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dre4my26's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dre4my26&theme=great-gatsby&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dre4my26)](https://github.com/Dre4my26/github-readme-stats)
